@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @gitventurer and i don't know what to do
+- 👋 Hi, I update this constantly. No developments have started.
 
 <!---
 gitventurer/gitventurer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
